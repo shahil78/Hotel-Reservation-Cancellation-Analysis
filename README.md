@@ -1,7 +1,5 @@
 # Hotel-Reservation-Cancellation-Analysis
 
-# Hotel Reservation Cancellation Analysis
-
 ## Project Overview
 
 This project analyzes the reasons behind high cancellation rates for City Hotels and Resort Hotels and proposes actionable strategies to minimize cancellations and improve hotel operations. By thoroughly examining reservation data, we identified key factors affecting cancellations and provided insights to assist hotels in optimizing pricing, promotions, and customer experience.
